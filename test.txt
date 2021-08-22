@@ -1,0 +1,5 @@
+Creating a file in the locally downloaded repository through bash:
+$ notepad filename.extention
+
+To add this newly created file into your local repo:
+$ git add
